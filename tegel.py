@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 #   Skript by
-# Ron and Warker and Denis
+# Ron and Warker and Denis and Tec
 #     2010
 #
 
@@ -22,7 +22,7 @@ HOST = "172.23.42.120"
 PORT = 2342
 
 LINELEN = 56
-LINES = 19
+LINES = 20
 
 global leng
 global stern
